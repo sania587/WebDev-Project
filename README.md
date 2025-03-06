@@ -1,5 +1,5 @@
 # Video Background with Text Animation
-Animation Module
+Animation Module 
 
 # Introduction
 This repository contains a simple yet visually appealing web page that showcases a video background and animated text. This README provides an overview of the HTML and CSS code used to create this webpage. It is designed to serve as both a learning resource and a starting point for anyone looking to incorporate similar features into their web projects.
