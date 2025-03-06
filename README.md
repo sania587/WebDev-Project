@@ -56,3 +56,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 We hope you find this code and project useful for creating visually appealing web pages with video backgrounds and text animations. Enjoy experimenting with the code and building stunning web experiences!
 Updated documentation.
+GUI updates
